@@ -1,0 +1,90 @@
+{
+  "userData": [
+    {
+      "userName": "Omkar More",
+      "userEmail": "omkarmore1100@gmail.com",
+      "userPassword": "123",
+      "id": 1
+    }
+  ],
+  "carData": [
+    {
+      "company": "B",
+      "model": "nkj",
+      "average": 21,
+      "id": 2
+    },
+    {
+      "company": "C",
+      "model": "kj",
+      "average": 151,
+      "id": 3
+    },
+    {
+      "company": "D",
+      "model": "jiuytdt",
+      "average": 5,
+      "id": 4
+    },
+    {
+      "company": "Z",
+      "model": "lkj",
+      "average": 51,
+      "id": 5
+    },
+    {
+      "company": "S",
+      "model": "ghijo",
+      "average": 1616,
+      "id": 7
+    },
+    {
+      "company": "J",
+      "model": "fdgj",
+      "average": 69,
+      "id": 8
+    },
+    {
+      "company": "X",
+      "model": ";,lkjhyu",
+      "average": 43,
+      "id": 9
+    },
+    {
+      "company": "Q",
+      "model": "oiuhg",
+      "average": 39,
+      "id": 10
+    },
+    {
+      "company": "W",
+      "model": "poiuy",
+      "average": 65,
+      "id": 11
+    },
+    {
+      "company": "R",
+      "model": "koihgy",
+      "average": 54,
+      "id": 12
+    },
+    {
+      "company": "P",
+      "model": "khg",
+      "average": 85,
+      "id": 13
+    },
+    {
+      "company": "J",
+      "model": "Jjgyft",
+      "average": 8777,
+      "id": 14
+    },
+    {
+      "company": "pyg",
+      "model": "l;kjhgf",
+      "average": 44,
+      "id": 15
+    }
+  ]
+}
